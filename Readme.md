@@ -7,4 +7,4 @@ Skrevet i java og bruker javafx for grensesnitt.
 Hvis du vil prøve kubeløseren kan du laste ned og kjøre jar-filen.
 
 # Koordinater
-I koden refereres det ofte til koordinater på kuben. Hvis du vil ha oversikt over hvilke deler av kuben disse koordinatene tilsvarer kan du ta en titt på bildefilen 'kubediagram'.
+I koden refereres det ofte til koordinater på kuben. Hvis du vil ha oversikt over hvilke deler av kuben disse koordinatene tilsvarer kan du ta en titt på bildefilen 'kubediagram'. For å være helt tydelig: koordinatene refererer alltid til samme posisjon på kuben, selv om fargen på posisjonen endrer seg.
