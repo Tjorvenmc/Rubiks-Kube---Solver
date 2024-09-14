@@ -1,4 +1,4 @@
-package enums
+package cube.enums
 
 enum class Color {
     BLUE,
@@ -6,5 +6,5 @@ enum class Color {
     WHITE,
     RED,
     YELLOW,
-    GREEN
+    GREEN,
 }
